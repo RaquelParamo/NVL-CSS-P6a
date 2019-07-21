@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+table {
+	width: 100%;
+	border: 1px solid #000000;
+	border-style:dashed;
+}
+
+caption {
+	border:1px solid #000000;
+	padding: 0.3em;
+	border-style:dashed;
+}
+
+th, td {
+	width: 20%;
+	text-align:left;
+	border: 1px solid #000000;
+	border-collapse: collapse;
+	padding: 0.3em;
+}
+
+.th1 {
+	background-color: #ffffff;
+}
+.th2 {
+	background-color: #D9D9D9;
+}
+.th3 {
+	background-color: #CCCCCC;
+}
+.th4 {
+	background-color: #B9B9B9;
+}
+.th5 {
+	background-color: #A4A4A4;
+}
+.th6 {
+	background-color: #9C9C9C;
+}
+.th7 {
+	background-color: #747474;
+	color: #ffffff;
+}
+.th8 {
+	background-color: #424242;
+	color:#ffffff;
+}
+.th9 {
+	background-color: #252525;
+	color:#ffffff;
+}
+.th10{
+	background-color: #000000;
+	color:#ffffff;
+}
+
+.img {
+	text-align:center;
+}
+
+img {
+	width:100px;
+}
